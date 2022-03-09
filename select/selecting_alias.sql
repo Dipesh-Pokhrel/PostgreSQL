@@ -1,0 +1,1 @@
+SELECT customers.first_name AS "Name", customers.last_name AS "Surname" FROM learning.customers;

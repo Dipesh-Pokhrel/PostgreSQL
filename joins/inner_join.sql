@@ -1,0 +1,1 @@
+SELECT * FROM learning.items INNER JOIN learning.purchases ON items.id = purchases.item_id

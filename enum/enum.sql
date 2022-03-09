@@ -1,0 +1,1 @@
+CREATE TYPE mood AS ENUM('extremely unhappy', 'unhappy','ok','happy','extremely happy');

@@ -1,0 +1,1 @@
+SELECT * FROM learning.customers LEFT JOIN learning.purchases ON customers.id = purchases.customer_id
